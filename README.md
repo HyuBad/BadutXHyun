@@ -1,0 +1,8 @@
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/bg-prewed.jpg?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/bg.png?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/hyun.png?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/badut.png?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/sman23.jpg?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/saweria.png?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/gallery/1.png?raw=true)
+![alt text](https://github.com/HyuBad/BadutXHyun/blob/main/img/gallery/thumbnail/1.png?raw=true)
